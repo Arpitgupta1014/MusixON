@@ -8,7 +8,7 @@ Here We are attaching some photos of our Webapp.<br>
 <img src="https://github.com/arpitgupta1014/MusixON/blob/main/MusixON%20photos/Screenshot%20(288).png" width="350px" height="280px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/arpitgupta1014/MusixON/blob/main/MusixON%20photos/Screenshot%20(287).png" width="350px" height="280px"><br>
 <img src="https://github.com/arpitgupta1014/MusixON/blob/main/MusixON%20photos/Screenshot%20(281).png" width="350px" height="280px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/arpitgupta1014/MusixON/blob/main/MusixON%20photos/Screenshot%20(282).png" width="350px" height="280px"><br>
 <img src="https://github.com/arpitgupta1014/MusixON/blob/main/MusixON%20photos/Screenshot%20(283).png" width="350px" height="280px">&nbsp;&nbsp;&nbsp;<img src="https://github.com/arpitgupta1014/MusixON/blob/main/MusixON%20photos/Screenshot%20(284).png" width="350px" height="280px"><br>
-<img src="https://github.com/arpitgupta1014/MusixON/blob/main/MusixON%20photos/Screenshot%20(285).png" width="350px" height="280px">
+<img src="https://github.com/arpitgupta1014/MusixON/blob/main/MusixON%20photos/Screenshot%20(285).png" width="350px" height="280px"><br>
 This app is fully based on react.js for frontend and node.js,mongoose and mongoDB for backend and database.
 
 Created with Love :heart:
